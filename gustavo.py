@@ -2,6 +2,7 @@
 COMO FRITAR UM OVO;
 
 Primeiro passo:Ligar o fogo
+Sengundo passo:Ter uma panela ou frigideira
 Terceiro passo:Ter oleo ou manteiga 
 Quarto passo: Colocar oleo ou manteiga na panela ou na frigideira
 Quinto passo: Esperar o oleo ou a manteiga esquentar 
